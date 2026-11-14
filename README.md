@@ -102,4 +102,3 @@ and `VNB = −BEL`; roll-forward consistency of the year-end valuations; a 31 Ma
 - Operational risk uses the first 12 projected months of expenses as a proxy for the last 12.
 - Policy-level flooring is applied at model-point level.
 
-`_archive_v1/` holds the inputs, outputs and documentation of the previous annual version.
